@@ -1,0 +1,8 @@
+{
+  "extends": "next/core-web-vitals",
+  "rules": {
+    "eol-last": "error",
+    "linebreak-style": "error",
+    "no-console": "error"
+  }
+}

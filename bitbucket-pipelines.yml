@@ -1,0 +1,18 @@
+image: node:18
+pipelines:
+  default:
+    - parallel:
+        - step:
+            name: Build and Test
+            caches:
+              - node
+            script:
+              - yarn install
+              - yarn test
+        - step:
+            name: Code linting
+            script:
+              - yarn add eslint
+              - npx eslint .
+            caches:
+              - node

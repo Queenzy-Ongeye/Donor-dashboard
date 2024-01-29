@@ -1,0 +1,731 @@
+{
+  "filters": {
+    "startDate": "2020-01-01",
+    "endDate": "2023-03-31",
+    "yearlyFilter": ["2020", "2021", "2022", "2023"],
+    "termlyFilter": ["All Term", "term one", "term two", "term two"]
+  },
+  "name": "nairobi",
+  "totalSchools": 208,
+  "totalChildrenEnrolled": 3000000,
+  "proportionBoys": 0.58,
+  "proportionGirls": 0.42,
+  "totalMealsAllTime": 5000000,
+  "mealsFedToday": 25000,
+  "subCountiesSupported": 10,
+  "totalParentsEnrolled": 500000,
+  "wardsSupported": 73,
+  "kitchens": 50,
+  "subCounties": [
+    {
+      "id": "aabb",
+      "name": "Westlands",
+      "childrenPopulation": 100000,
+      "totalMealsServed": 2890023,
+      "totalKidsRegistered": 203890,
+      "totalSchools": 12,
+      "proportionBoys": 0.55,
+      "proportionGirls": 0.45,
+      "totalWards": 5,
+      "kitchensPerSubCounty": 8,
+      "utilization": 67,
+      "wards": [
+        {
+          "id": "qqw00",
+          "name": "Parklands",
+          "childrenPopulation": 230000,
+          "totalKidsEnrolled": 159490,
+          "totalSchools": 5,
+          "proportionBoys": 0.45,
+          "proportionGirls": 0.55,
+          "totalSchoolsPerWard": 12,
+          "totalMealsServedPerWard": 203450,
+          "kitchensPerWard": 3,
+          "utilization": 79
+        },
+        {
+          "id": "aj00p",
+          "name": "Karura",
+          "childrenPopulation": 330000,
+          "totalKidsEnrolled": 239490,
+          "totalSchools": 12,
+          "proportionBoys": 0.59,
+          "proportionGirls": 0.41,
+          "totalSchoolsPerWard": 5,
+          "totalMealsServedPerWard": 603450,
+          "kitchensPerWard": 1,
+          "utilization": 80
+        },
+        {
+          "id": "22wefc",
+          "name": "Kangemi",
+          "childrenPopulation": 250000,
+          "totalKidsEnrolled": 160490,
+          "totalSchools": 10,
+          "proportionBoys": 0.6,
+          "proportionGirls": 0.4,
+          "totalSchoolsPerWard": 12,
+          "kitchensPerWard": 2,
+          "totalMealsServedPerWard": 349019
+        },
+        {
+          "id": "889ieo",
+          "name": "Mountain View",
+          "childrenPopulation": 170000,
+          "totalKidsEnrolled": 159490,
+          "totalSchools": 11,
+          "proportionBoys": 0.55,
+          "proportionGirls": 0.45,
+          "totalSchoolsPerWard": 10,
+          "kitchensPerWard": 1,
+          "totalMealsServedPerWard": 190881
+        },
+        {
+          "id": "880eo",
+          "name": "Kitusuru",
+          "childrenPopulation": 170000,
+          "totalKidsEnrolled": 159490,
+          "totalSchools": 3,
+          "proportionBoys": 0.55,
+          "proportionGirls": 0.45,
+          "totalSchoolsPerWard": 7,
+          "kitchensPerWard": 1,
+          "totalMealsServedPerWard": 290176
+        }
+      ]
+    },
+    {
+      "id": "ccdd",
+      "name": "Kamukunji",
+      "childrenPopulation": 150000,
+      "totalMealsServed": 2890023,
+      "totalKidsRegistered": 203890,
+      "totalSchools": 12,
+      "proportionBoys": 0.52,
+      "proportionGirls": 0.48,
+      "totalWards": 5,
+      "kitchensPerSubCounty": 1,
+      "utilization": 57,
+      "wards": [
+        {
+          "id": "23yyus",
+          "name": "Eastleigh South",
+          "childrenPopulation": 150000,
+          "totalMealsServedPerWard": 1890023,
+          "totalKidsEnrolled": 203890,
+          "proportionBoys": 0.5,
+          "proportionGirls": 0.5,
+          "totalSchoolsPerWard": 6,
+          "kitchensPerWard": 0
+        },
+        {
+          "id": "qw223",
+          "name": "Airbase",
+          "childrenPopulation": 500000,
+          "totalMealsServedPerWard": 530020,
+          "totalKidsEnrolled": 203890,
+          "proportionBoys": 0.52,
+          "proportionGirls": 0.48,
+          "totalSchoolsPerWard": 8,
+          "kitchensPerWard": 0
+        },
+        {
+          "id": "we90o",
+          "name": "California",
+          "childrenPopulation": 530640,
+          "totalMealsServedPerWard": 530020,
+          "totalKidsEnrolled": 203890,
+          "proportionBoys": 0.62,
+          "proportionGirls": 0.38,
+          "totalSchoolsPerWard": 7,
+          "kitchensPerWard": 0
+        },
+        {
+          "id": "54we90o",
+          "name": "Ngara",
+          "childrenPopulation": 530640,
+          "totalMealsServedPerWard": 530020,
+          "totalKidsEnrolled": 203890,
+          "proportionBoys": 0.62,
+          "proportionGirls": 0.38,
+          "totalSchoolsPerWard": 6,
+          "kitchensPerWard": 1
+        },
+        {
+          "id": "4rte90o",
+          "name": "Nairobi Central",
+          "childrenPopulation": 530640,
+          "totalMealsServedPerWard": 530020,
+          "totalKidsEnrolled": 203890,
+          "proportionBoys": 0.62,
+          "proportionGirls": 0.38,
+          "totalSchoolsPerWard": 8,
+          "kitchensPerWard": 0
+        }
+      ]
+    },
+    {
+      "name": "Dagoretti North",
+      "childrenPopulation": 18000,
+      "totalSchools": 10,
+      "proportionGirls": 0.5,
+      "totalWards": 5,
+      "totalMealsServed": 2890023,
+      "totalKidsRegistered": 203890,
+      "kitchensPerSubCounty": 2,
+      "utilization": 80,
+      "wards": [
+        {
+          "id": "AAS23yyus",
+          "name": "Kilimani",
+          "childrenPopulation": 150000,
+          "totalMealsServedPerWard": 1890023,
+          "totalKidsEnrolled": 203890,
+          "proportionBoys": 0.5,
+          "proportionGirls": 0.5,
+          "totalSchoolsPerWard": 5,
+          "kitchensPerWard": 0
+        },
+        {
+          "id": "AAJOW003",
+          "name": "Kawangware",
+          "childrenPopulation": 500000,
+          "totalMealsServedPerWard": 530020,
+          "totalKidsEnrolled": 203890,
+          "proportionBoys": 0.52,
+          "proportionGirls": 0.48,
+          "totalSchoolsPerWard": 6,
+          "kitchensPerWard": 1
+        },
+        {
+          "id": "qw223rAs",
+          "name": "Gatina",
+          "childrenPopulation": 530640,
+          "totalMealsServedPerWard": 530020,
+          "totalKidsEnrolled": 203890,
+          "proportionBoys": 0.62,
+          "proportionGirls": 0.38,
+          "totalSchoolsPerWard": 7,
+          "kitchensPerWard": 0
+        },
+        {
+          "id": "uwiw0ovo",
+          "name": "Kileleshwa",
+          "childrenPopulation": 530640,
+          "totalMealsServedPerWard": 530020,
+          "totalKidsEnrolled": 203890,
+          "proportionBoys": 0.62,
+          "proportionGirls": 0.38,
+          "totalSchoolsPerWard": 5,
+          "kitchensPerWard": 0
+        },
+        {
+          "id": "AWQDCF",
+          "name": "Kabiro",
+          "childrenPopulation": 530640,
+          "totalMealsServedPerWard": 530020,
+          "totalKidsEnrolled": 203890,
+          "proportionBoys": 0.62,
+          "proportionGirls": 0.38,
+          "totalSchoolsPerWard": 6,
+          "kitchensPerWard": 1
+        }
+      ]
+    },
+    {
+      "id": "eeff",
+      "name": "Dagoretti South",
+      "childrenPopulation": 22000,
+      "proportionBoys": 0.53,
+      "proportionGirls": 0.47,
+      "totalWards": 5,
+      "totalMealsServed": 2890023,
+      "totalKidsRegistered": 203890,
+      "totalSchools": 28,
+      "kitchensPerSubCounty": 3,
+      "utilization": 57,
+      "wards": [
+        {
+          "id": "AAZXRRFH",
+          "name": "Mutu-ini",
+          "childrenPopulation": 150000,
+          "totalMealsServedPerWard": 1890023,
+          "totalKidsEnrolled": 203890,
+          "proportionBoys": 0.5,
+          "proportionGirls": 0.5,
+          "totalSchoolsPerWard": 6,
+          "kitchensPerWard": 0
+        },
+        {
+          "id": "ADFEYUOA",
+          "name": "Ngando",
+          "childrenPopulation": 500000,
+          "totalMealsServedPerWard": 530020,
+          "totalKidsEnrolled": 203890,
+          "proportionBoys": 0.52,
+          "proportionGirls": 0.48,
+          "totalSchoolsPerWard": 4,
+          "kitchensPerWard": 1
+        },
+        {
+          "id": "ZSAQWFRGHB",
+          "name": "Riruta",
+          "childrenPopulation": 530640,
+          "totalMealsServedPerWard": 530020,
+          "totalKidsEnrolled": 203890,
+          "proportionBoys": 0.62,
+          "proportionGirls": 0.38,
+          "totalSchoolsPerWard": 5,
+          "kitchensPerWard": 2
+        },
+        {
+          "id": "AQNNMDKWLF",
+          "name": "Uthiru",
+          "childrenPopulation": 530640,
+          "totalMealsServedPerWard": 530020,
+          "totalKidsEnrolled": 203890,
+          "proportionBoys": 0.62,
+          "proportionGirls": 0.38,
+          "totalSchoolsPerWard": 8,
+          "kitchensPerWard": 0
+        },
+        {
+          "id": "AWQDCFHMMDDLS",
+          "name": "Waithaka",
+          "childrenPopulation": 530640,
+          "totalMealsServedPerWard": 530020,
+          "totalKidsEnrolled": 203890,
+          "proportionBoys": 0.62,
+          "proportionGirls": 0.38,
+          "totalSchoolsPerWard": 7,
+          "kitchensPerWard": 0
+        }
+      ]
+    },
+    {
+      "id": "ffgg",
+      "name": "Langata",
+      "childrenPopulation": 25000,
+      "proportionBoys": 0.51,
+      "proportionGirls": 0.49,
+      "totalWards": 5,
+      "totalMealsServed": 2890023,
+      "totalKidsRegistered": 203890,
+      "totalSchools": 9,
+      "kitchensPerSubCounty": 2,
+      "utilization": 79,
+      "wards": [
+        {
+          "id": "AGHEFJKA",
+          "name": "Karen",
+          "childrenPopulation": 150000,
+          "totalMealsServedPerWard": 1890023,
+          "totalKidsEnrolled": 203890,
+          "proportionBoys": 0.5,
+          "proportionGirls": 0.5,
+          "totalSchoolsPerWard": 2,
+          "kitchensPerWard": 0
+        },
+        {
+          "id": "AAJOQCGK",
+          "name": "Nairobi West",
+          "childrenPopulation": 500000,
+          "totalMealsServedPerWard": 530020,
+          "totalKidsEnrolled": 203890,
+          "proportionBoys": 0.52,
+          "proportionGirls": 0.48,
+          "totalSchoolsPerWard": 3,
+          "kitchensPerWard": 1
+        },
+        {
+          "id": "ADSCJLIGF",
+          "name": "Mugumu-Ini",
+          "childrenPopulation": 530640,
+          "totalMealsServedPerWard": 530020,
+          "totalKidsEnrolled": 203890,
+          "proportionBoys": 0.62,
+          "proportionGirls": 0.38,
+          "totalSchoolsPerWard": 3,
+          "kitchensPerWard": 0
+        },
+        {
+          "id": "ADCNNGKEOP",
+          "name": "South C",
+          "childrenPopulation": 530640,
+          "totalMealsServedPerWard": 530020,
+          "totalKidsEnrolled": 203890,
+          "proportionBoys": 0.62,
+          "proportionGirls": 0.38,
+          "totalSchoolsPerWard": 4,
+          "kitchensPerWard": 0
+        },
+        {
+          "id": "AWQDCFFHLLKA",
+          "name": "Nyayo Highrise",
+          "childrenPopulation": 530640,
+          "totalMealsServedPerWard": 530020,
+          "totalKidsEnrolled": 203890,
+          "proportionBoys": 0.62,
+          "proportionGirls": 0.38,
+          "totalSchoolsPerWard": 5,
+          "kitchensPerWard": 1
+        }
+      ]
+    },
+    {
+      "id": "gghh",
+      "name": "Embakasi East",
+      "childrenPopulation": 35000,
+      "proportionBoys": 0.55,
+      "proportionGirls": 0.5,
+      "totalWards": 5,
+      "totalMealsServed": 2890023,
+      "totalKidsRegistered": 203890,
+      "kitchensPerSubCounty": 3,
+      "totalSchools": 30,
+      "utilization": 60,
+      "wards": [
+        {
+          "id": "SCHKEMLSO",
+          "name": "Upper Savannah",
+          "childrenPopulation": 150000,
+          "totalMealsServedPerWard": 1890023,
+          "totalKidsEnrolled": 203890,
+          "proportionBoys": 0.5,
+          "proportionGirls": 0.5,
+          "totalSchoolsPerWard": 4,
+          "kitchensPerWard": 0
+        },
+        {
+          "id": "DDCVSKKLA",
+          "name": "Lower Savannah",
+          "childrenPopulation": 500000,
+          "totalMealsServedPerWard": 530020,
+          "totalKidsEnrolled": 203890,
+          "proportionBoys": 0.52,
+          "proportionGirls": 0.48,
+          "totalSchoolsPerWard": 7,
+          "kitchensPerWard": 1
+        },
+        {
+          "id": "CDSSHKALORP",
+          "name": "Embakasi",
+          "childrenPopulation": 530640,
+          "totalMealsServedPerWard": 530020,
+          "totalKidsEnrolled": 203890,
+          "proportionBoys": 0.62,
+          "proportionGirls": 0.38,
+          "totalSchoolsPerWard": 6,
+          "kitchensPerWard": 0
+        },
+        {
+          "id": "UDJAPOEMGKL",
+          "name": "Utawala",
+          "childrenPopulation": 530640,
+          "totalMealsServedPerWard": 530020,
+          "totalKidsEnrolled": 203890,
+          "proportionBoys": 0.62,
+          "proportionGirls": 0.38,
+          "totalSchoolsPerWard": 5,
+          "kitchensPerWard": 2
+        },
+        {
+          "id": "AWQDCDHVMXKF",
+          "name": "Mihango",
+          "childrenPopulation": 530640,
+          "totalMealsServedPerWard": 530020,
+          "totalKidsEnrolled": 203890,
+          "proportionBoys": 0.62,
+          "proportionGirls": 0.38,
+          "totalSchoolsPerWard": 7,
+          "kitchensPerWard": 0
+        }
+      ]
+    },
+    {
+      "id": "hhjj",
+      "name": "Embakasi West",
+      "childrenPopulation": 30000,
+      "proportionBoys": 0.53,
+      "proportionGirls": 0.49,
+      "totalWards": 5,
+      "totalMealsServed": 2890023,
+      "totalKidsRegistered": 203890,
+      "kitchensPerSubCounty": 4,
+      "totalSchools": 30,
+      "utilization": 80,
+      "wards": [
+        {
+          "id": "AXZMKOLEMKA",
+          "name": "Umoja I",
+          "childrenPopulation": 150000,
+          "totalMealsServedPerWard": 1890023,
+          "totalKidsEnrolled": 203890,
+          "proportionBoys": 0.5,
+          "proportionGirls": 0.5,
+          "totalSchoolsPerWard": 7,
+          "kitchensPerWard": 0
+        },
+        {
+          "id": "AAJOW00JKOL",
+          "name": "Umoja II",
+          "childrenPopulation": 500000,
+          "totalMealsServedPerWard": 530020,
+          "totalKidsEnrolled": 203890,
+          "proportionBoys": 0.52,
+          "proportionGirls": 0.48,
+          "totalSchoolsPerWard": 5,
+          "kitchensPerWard": 1
+        },
+        {
+          "id": "AXDJLOPWDCLD",
+          "name": "Mowlem",
+          "childrenPopulation": 530640,
+          "totalMealsServedPerWard": 530020,
+          "totalKidsEnrolled": 203890,
+          "proportionBoys": 0.62,
+          "proportionGirls": 0.38,
+          "totalSchoolsPerWard": 2,
+          "kitchensPerWard": 0
+        },
+        {
+          "id": "QASFGHKJSL",
+          "name": "Kariobangi South",
+          "childrenPopulation": 530640,
+          "totalMealsServedPerWard": 530020,
+          "totalKidsEnrolled": 203890,
+          "proportionBoys": 0.62,
+          "proportionGirls": 0.38,
+          "totalSchoolsPerWard": 6,
+          "kitchensPerWard": 0
+        },
+        {
+          "id": "AWQDCFCNMLPO",
+          "name": "Maringo",
+          "childrenPopulation": 530640,
+          "totalMealsServedPerWard": 530020,
+          "totalKidsEnrolled": 203890,
+          "proportionBoys": 0.62,
+          "proportionGirls": 0.38,
+          "totalSchoolsPerWard": 4,
+          "kitchensPerWard": 3
+        }
+      ]
+    }
+  ],
+  "schools": [
+    {
+      "subCountyId": "aabb",
+      "wardId": "qqw00",
+      "id": "AEMSQWIOCLD",
+      "schoolName": "Westlands Primary School",
+      "totalStudentsRegistered": 4500,
+      "wardName": "Parklands",
+      "totalMealsServed": 403901,
+      "totalParents": 3981,
+      "penetration": 78,
+      "totalTeachers": 482,
+      "boysRatio": 5,
+      "girlsRatio": 5,
+      "utilization": 59,
+      "populationUnutilized": 41,
+      "dateCreated": "31/02/2022",
+      "registrationGraph": {
+        "labels": ["Term one", "Term Two", "Term Three"],
+        "data": [280, 200, 150]
+      },
+      "gradePopulation": {
+        "labels": [
+          "PP1",
+          "PP2",
+          "Grade 1",
+          "Grade 2",
+          "Grade 3",
+          "Grade 4",
+          "Grade 5",
+          "Grade 6",
+          "Grade 7",
+          "Class 8"
+        ],
+        "data": [109, 100, 203, 720, 703, 351, 489, 586, 600, 581]
+      }
+    },
+    {
+      "subCountyId": "aabb",
+      "wardId": "qqw00",
+      "id": "2IOPZG",
+      "schoolName": "Agha Khan Primary School",
+      "wardName": "Parklands",
+      "totalStudentsRegistered": 1500,
+      "totalMealsServed": 403901,
+      "totalParents": 981,
+      "penetration": 78,
+      "totalTeachers": 109,
+      "boysRatio": 6,
+      "girlsRatio": 4,
+      "utilization": 72,
+      "populationUnutilized": 28,
+      "dateCreated": "31/02/2022",
+      "registrationGraph": {
+        "labels": ["Term one", "Term Two", "Term Three"],
+        "data": [280, 200, 150]
+      },
+      "gradePopulation": {
+        "labels": [
+          "PP1",
+          "PP2",
+          "Grade 1",
+          "Grade 2",
+          "Grade 3",
+          "Grade 4",
+          "Grade 5",
+          "Grade 6",
+          "Grade 7",
+          "Class 8"
+        ],
+        "data": [69, 100, 203, 220, 203, 151, 209, 286, 140, 122]
+      }
+    },
+    {
+      "subCountyId": "ccdd",
+      "wardId": "23yyus",
+      "wardName": "Eastleigh South",
+      "id": "3WEK",
+      "schoolName": "Eastleigh Primary School",
+      "totalStudentsRegistered": 1500,
+      "totalMealsServed": 390176,
+      "totalParents": 1034,
+      "penetration": 62,
+      "totalTeachers": 100,
+      "boysRatio": 5,
+      "girlsRatio": 5,
+      "utilization": 60,
+      "populationUnutilized": 40,
+      "dateCreated": "31/02/2023",
+      "registrationGraph": {
+        "labels": ["Term one", "Term Two", "Term Three"],
+        "data": [280, 200, 150]
+      },
+      "gradePopulation": {
+        "labels": [
+          "PP1",
+          "PP2",
+          "Grade 1",
+          "Grade 2",
+          "Grade 3",
+          "Grade 4",
+          "Grade 5",
+          "Grade 6",
+          "Grade 7",
+          "Class 8"
+        ],
+        "data": [69, 100, 203, 220, 203, 151, 209, 286, 140, 122]
+      }
+    },
+    {
+      "subCountyId": "aabb",
+      "wardId": "qqw00",
+      "id": "5SQOP",
+      "wardName": "Parklands",
+      "schoolName": "St. Michaels Primary School",
+      "totalStudentsRegistered": 1500,
+      "totalMealsServed": 403901,
+      "totalParents": 981,
+      "penetration": 78,
+      "totalTeachers": 109,
+      "boysRatio": 6,
+      "girlsRatio": 4,
+      "utilization": 72,
+      "populationUnutilized": 28,
+      "dateCreated": "31/02/2022",
+      "registrationGraph": {
+        "labels": ["Term one", "Term Two", "Term Three"],
+        "data": [280, 200, 150]
+      },
+      "gradePopulation": {
+        "labels": [
+          "PP1",
+          "PP2",
+          "Grade 1",
+          "Grade 2",
+          "Grade 3",
+          "Grade 4",
+          "Grade 5",
+          "Grade 6",
+          "Grade 7",
+          "Class 8"
+        ],
+        "data": [69, 100, 203, 220, 203, 151, 209, 286, 140, 122]
+      }
+    },
+    {
+      "subCountyId": "ccdd",
+      "wardId": "23yyus",
+      "id": "4QOP",
+      "wardName": "Eastleigh South",
+      "schoolName": "Jamuhuri Primary School",
+      "totalStudentsRegistered": 1500,
+      "totalMealsServed": 490176,
+      "totalParents": 1034,
+      "penetration": 72,
+      "totalTeachers": 89,
+      "boysRatio": 5,
+      "girlsRatio": 5,
+      "utilization": 60,
+      "populationUnutilized": 40,
+      "dateCreated": "31/01/2023",
+      "registrationGraph": {
+        "labels": ["Term one", "Term Two", "Term Three"],
+        "data": [280, 200, 150]
+      },
+      "gradePopulation": {
+        "labels": [
+          "PP1",
+          "PP2",
+          "Grade 1",
+          "Grade 2",
+          "Grade 3",
+          "Grade 4",
+          "Grade 5",
+          "Grade 6",
+          "Grade 7",
+          "Class 8"
+        ],
+        "data": [69, 100, 203, 220, 203, 151, 209, 286, 140, 122]
+      }
+    }
+  ],
+  "meals": {
+    "mealsProductionTrend": {
+      "labels": ["Meals daily", "Meals weekly", "Meals monthly"],
+      "data": [589120, 908156, 3089700]
+    },
+    "gigaMealsTrend": {
+      "labels": [
+        "Jan",
+        "Feb",
+        "Mar",
+        "Apr",
+        "May",
+        "Jun",
+        "Jul",
+        "Aug",
+        "Sep",
+        "Oct",
+        "Nov",
+        "Dec"
+      ],
+      "data": [
+        5500, 2000, 4500, 8000, 60000, 28000, 34000, 59000, 62300, 0, 0, 0
+      ]
+    },
+    "kitchenMealTrend": {
+      "labels": ["Kiambu", "Ruiru", "Juja", "Giga", "Dagoretti"],
+      "data": [30000, 22000, 45000, 80000, 30000]
+    },
+    "utilizationVSpenetration": {
+      "labels": ["utilization", "penetration"],
+      "data": [78, 89]
+    }
+  }
+}
